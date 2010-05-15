@@ -70,10 +70,10 @@ class Hetjens_Registered_Only {
 
     //Depending of the permalink structure it has to add an & or a ?
     if (get_option('permalink_structure') == '')
-      $output .= '&';
+      $output .= '&amp;';
     else
       $output .= '?';
-    return $output.'user='.$current_user->user_login.'&key='.md5($current_user->user_pass);
+    return $output.'user='.$current_user->user_login.'&amp;key='.md5($current_user->user_pass);
   }
   
   function wp() {
