@@ -1,0 +1,37 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hetjens Registered Only\n"
+"POT-Creation-Date: 2010-05-15 12:56+0100\n"
+"PO-Revision-Date: 2010-05-15 13:04+0100\n"
+"Last-Translator: Philip Hetjens <philip@hetjens.eu>\n"
+"Language-Team: Philip Hetjens <philip@hetjens.eu>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: Hetjens_Registered_Only.php\n"
+
+msgid "Security settings"
+msgstr "Sicherheitseinstellungen"
+
+msgid "Require login"
+msgstr "Erfordert Login"
+
+msgid "Private feed"
+msgstr "Privater Feed"
+
+msgid "Public aceess"
+msgstr "Öffentlicher Zugriff"
+
+msgid "Restricted aceess"
+msgstr "Eingeschränkter Zugriff"
+
+msgid "Enable private Feed"
+msgstr "Privaten Feed aktivieren"
+
+msgid "Forwards all not loggedin visitors to the login page and offers private Feeds."
+msgstr "Leitet alle nicht eingeloggten Besucher zu der Login-Seite and bietet private Feeds."
+
